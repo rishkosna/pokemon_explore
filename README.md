@@ -1,2 +1,2 @@
-# launch_ds
-data science assessment for launch
+# pokemon_explore
+Exploratory data analysis for a large pokemon dataset
